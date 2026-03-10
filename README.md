@@ -8,4 +8,4 @@ Acess camcookie:// url's. This is a browser only version of the Camcookie intern
 
 ### Download:
 Open the falowing url to download:
-<https://addons.mozilla.org/firefox/downloads/file/4721058/727222644a1e463a8f77-1.0.0.xpi>
+<[https://addons.mozilla.org/firefox/downloads/file/4721058/727222644a1e463a8f77-1.0.0.xpi](https://addons.mozilla.org/firefox/downloads/file/4721137/727222644a1e463a8f77-2.0.0.zip)>
